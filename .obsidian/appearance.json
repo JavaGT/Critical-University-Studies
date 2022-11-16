@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#00a6ff",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "tidy_outline"
+  ],
+  "theme": "obsidian"
 }

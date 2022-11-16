@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6ebf0a4521bed05b",
+        "id": "df5e64f212a8fbf1",
         "type": "tabs",
         "children": [
           {
-            "id": "10007e3b9f5d7e2f",
+            "id": "5779903030b5a1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Good University.md",
+                "file": "The Good University (2019).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -29,7 +29,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e03d6cd9ac474dec",
+        "id": "0fa32886af7dd131",
         "type": "tabs",
         "children": [
           {
@@ -40,6 +40,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "26448791126e7ce6",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
             }
           },
           {
@@ -65,11 +73,26 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f8393fc4215a74c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09627bce9bc9792",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250.5
   },
   "right": {
     "id": "d55b5d202ae2419c",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Good University.md",
+                "file": "The Good University (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Good University.md",
+                "file": "The Good University (2019).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,26 +141,20 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "1f5dc0bd9b25b2cf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The Good University.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "10007e3b9f5d7e2f",
+  "active": "5779903030b5a1de",
   "lastOpenFiles": [
-    "The Good University.md"
+    "The Good University (2019).md",
+    "Critical University Studies.md",
+    "Raewyn Connell.md",
+    "John Henry Newman.md"
   ]
 }

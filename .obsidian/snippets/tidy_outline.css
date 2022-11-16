@@ -1,0 +1,24 @@
+.n-slider {
+  display: none;
+}
+.n-tree-node {
+  opacity: 0.8;
+  border: none !important;
+}
+.n-tree-node .internal-link {
+  color: inherit;
+}
+.n-tree-node.located {
+  opacity: 1;
+  /* margin-left: -2em; */
+}
+.n-tree-node.located p::before {
+  content: "~ ";
+}
+.n-tree-node-indent {
+  border: none !important;
+  flex-basis: 0.5em !important;
+}
+.n-tree-node-switcher {
+  display: none !important;
+}
