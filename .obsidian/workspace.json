@@ -43,14 +43,6 @@
             }
           },
           {
-            "id": "26448791126e7ce6",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
             "id": "7091f1f664355fef",
             "type": "leaf",
             "state": {
@@ -72,9 +64,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6784adab80f30ebd",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "f8393fc4215a74c3",
@@ -150,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5779903030b5a1de",
+  "active": "6784adab80f30ebd",
   "lastOpenFiles": [
     "The Good University (2019).md",
     "Critical University Studies.md",

@@ -1,8 +1,10 @@
 {
   "accentColor": "#00a6ff",
-  "cssTheme": "Minimal",
+  "cssTheme": "Atom",
   "enabledCssSnippets": [
     "tidy_outline"
   ],
-  "theme": "obsidian"
+  "theme": "system",
+  "baseFontSize": 14,
+  "translucency": false
 }

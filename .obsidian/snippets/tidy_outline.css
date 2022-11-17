@@ -16,7 +16,8 @@
   content: "~ ";
 }
 .n-tree-node-indent {
-  border: none !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+  border-width: 1px !important;
   flex-basis: 0.5em !important;
 }
 .n-tree-node-switcher {
