@@ -199,6 +199,15 @@ All of which rested upon mathematics, creating 6 domains of knowledge, and assoc
 
 Science and [[research based knowledge]] may still be replaced by another not yet imagined form of knowledge [[James Frazer]] [[The Golden Bough (to date)]]
 
+[[research based knowledge]] formation is relentlessly public in principle. Publication is considered vital. In the logic of research based knowledge is a democratic core.
+
+The public character of knowledge is challenged by corporate, religious, and political authorities which protect orthodox beliefs. [[privatisation]]
+
+[[The Structure of Scientific Reolutions]] by [[Thomas Kuhn]]
+'normal science' i.e. research within a paradigm, is far from static, the norm is a collective process of change.
+
+
+The [[research based knowledge formation]] is produced collaboratively by the collective labour of research.
 
 
 
