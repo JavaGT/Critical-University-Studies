@@ -65,7 +65,13 @@
               "type": "starred",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4fa8e6e80c1b0bcf",
+        "type": "tabs",
+        "children": [
           {
             "id": "6784adab80f30ebd",
             "type": "leaf",
@@ -74,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f8393fc4215a74c3",
@@ -93,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 337.5
   },
   "right": {
     "id": "d55b5d202ae2419c",
@@ -151,11 +156,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6784adab80f30ebd",
+  "active": "5779903030b5a1de",
   "lastOpenFiles": [
+    "Raewyn Connell.md",
     "The Good University (2019).md",
     "Critical University Studies.md",
-    "Raewyn Connell.md",
     "John Henry Newman.md"
   ]
 }

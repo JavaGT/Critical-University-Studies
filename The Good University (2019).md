@@ -1,5 +1,5 @@
 Tags: #book #text 
-Authors: [[Raewyn Connell]
+Authors: [[Raewyn Connell]]
 Year: 2019
 Publisher: [[Zed Books]]
 
